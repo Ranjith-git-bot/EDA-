@@ -1,5 +1,5 @@
 # Data Analyst Portfolio Project  
-Exploratory Data Analysis of a Big Data Marathon Running Dataset:
+## Exploratory Data Analysis of a Big Data Marathon Running Dataset ##
 
 
 
